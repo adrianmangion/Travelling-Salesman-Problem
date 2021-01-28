@@ -1,5 +1,5 @@
 # Travelling-Salesman-Problem
-Coursework as part of AI module
+CST 3170 - Artificial Intelligence Coursework
 
 Coursework Brief:
 
